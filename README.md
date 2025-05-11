@@ -1,5 +1,5 @@
 # repositorio-sócrates
-  organizador de arquivos 
+  Organizador de arquivos 
 
 
 
